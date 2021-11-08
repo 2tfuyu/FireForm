@@ -1,0 +1,14 @@
+{
+  "name": "nitf/fireform",
+  "description": "Form API",
+  "minimum-stability": "dev",
+  "license": "LGPL-3.0-only",
+  "authors": [
+    {
+      "name": "2tf",
+      "email": "2tf2003@gmail.com"
+    }
+  ],
+  "require": {
+  }
+}

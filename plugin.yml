@@ -1,0 +1,5 @@
+name: FireForm
+main: nitf/fireform/Main
+version: 0.1.0
+description: Form API for PMMP
+author: 2tf
