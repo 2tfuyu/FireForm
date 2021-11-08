@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b98de426-7ed6-4f37-b252-3f8211f25973" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plugin.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nitf/fireform/Main.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/PocketMine-MP.phar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nitf/fireform/Main.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/nitf/fireform/Main.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +36,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="ToolWindowRun.ShowToolbar" value="false" />
@@ -67,7 +64,7 @@
       <updated>1636073508058</updated>
       <workItem from="1636073509154" duration="10184000" />
       <workItem from="1636087275647" duration="2151000" />
-      <workItem from="1636327621281" duration="2306000" />
+      <workItem from="1636327621281" duration="3555000" />
     </task>
     <servers />
   </component>
